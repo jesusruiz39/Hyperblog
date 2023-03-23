@@ -1,4 +1,4 @@
 hi, my name is Jesus David
 
 and Im 20 years old, im from Mexico City
-im studen eng comp in the UAM-A.
+Este es una prueba para hacer un buen uso del comando checkout
