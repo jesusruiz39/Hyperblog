@@ -6,7 +6,7 @@ Un blog increible para el curso de Git y Github en Platzi
 
 Este curso es demaciado bueno y completo para poder comprender la importancia del uso de **git y github** en la industria, como en tus proyectos.
 
-> Jesus David RUiz Garcia 
+> Jesus David Ruiz Garcia 
 
 Este curso incluye ejemplos en windows, linux y mac.
 Para todas las personas, sin importar su edad.
