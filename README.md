@@ -8,6 +8,9 @@ Este curso es demaciado bueno y completo para poder comprender la importancia de
 
 > Jesus David RUiz Garcia 
 
+Este curso incluye ejemplos en windows, linux y mac.
+Para todas las personas, sin importar su edad.
+
 Inserto una imagen de mi pelicula favorita :3
 ![interestelar](https://images.hdqwalls.com/wallpapers/interstellar-voyage.jpg "interestelar")
 
